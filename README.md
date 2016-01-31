@@ -1,6 +1,6 @@
 # syntaxhighlighter/brush-erlang
 
-erlang brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
+Erlang brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
 [![Build Status](https://travis-ci.org/alexgorbatchev/brush-erlang.svg)](https://travis-ci.org/alexgorbatchev/brush-erlang)
 
