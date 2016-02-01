@@ -1,9 +1,9 @@
-var BrushBase = require('brush-base');
-var regexLib = require('regex-lib');
+var BrushBase = require('@alexgorbatchev/brush-base');
+var regexLib = require('@alexgorbatchev/regex-lib');
 
 function Brush() {
   // Contributed by Jean-Lou Dupont
-  // http://jldupont.blogspot.com/2009/06/erlang-syntax-highlighter.html  
+  // http://jldupont.blogspot.com/2009/06/erlang-syntax-highlighter.html
 
   // According to: http://erlang.org/doc/reference_manual/introduction.html#1.5
   var keywords = 'after and andalso band begin bnot bor bsl bsr bxor ' +

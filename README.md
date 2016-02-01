@@ -2,11 +2,11 @@
 
 Erlang brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/brush-erlang.svg)](https://travis-ci.org/alexgorbatchev/brush-erlang)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/brush-erlang.svg)](https://travis-ci.org/syntaxhighlighter/brush-erlang)
 
 ## Installation
 
-    npm install syntaxhighlighter/brush-erlang
+    npm install @alexgorbatchev/brush-erlang
 
 ## Testing
 
