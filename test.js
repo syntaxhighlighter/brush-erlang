@@ -1,6 +1,6 @@
 var chai = require('chai');
 var expect = chai.expect;
-var parser = require('parser');
+var match = require('syntaxhighlighter-match');
 
 
 var Brush = require('./brush');
@@ -28,7 +28,7 @@ describe('brush-erlang', function() {
     var matches = null;
 
     before(function() {
-      matches = parser.parse(sample, instance.regexList);
+      matches = match.applyRegexList(sample, instance.regexList);
     });
 
     it('can parse', function() {
